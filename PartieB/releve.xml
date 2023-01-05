@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve rib="23458675">
+    <dateReleve>2022-10-10T00:00:00+01:00</dateReleve>
+    <Solde>1200.89</Solde>
+    <operations dateDebut="2022-10-10T00:00:00+01:00" dateFin="2022-10-10T00:00:00+01:00">
+        <operation type="CREDIT" date="2022-10-10T00:00:00+01:00" montant="3454.45" description="Virement"/>
+        <operation type="DEBIT" date="2022-10-10T00:00:00+01:00" montant="34342.45" description="Virement"/>
+    </operations>
+</releve>
